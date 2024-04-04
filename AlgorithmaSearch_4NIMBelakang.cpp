@@ -71,7 +71,12 @@ void display()
     cout << endl;
 }
 
-
+int main()
+{
+    input();
+    LinearSearch();
+    display();
+}
 
 
 
